@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Juego libre",
+    "descripcion": "Visita la ludoteca de Faro de Oriente y pasa un momento de diversión familiar, aquí el juego y la imaginación vienen de invitados.",
+    "fecha": "2017/03/07",
+  },
+  {
+    "nombre": "Atención a Prepa Sí",
+    "descripcion": "Se ofrece la atención a jóvenes de bachillerato o licenciatura que visitan al museo para validación de horas.",
+    "fecha": "2017/03/31",
+  },
+  {
+    "nombre": "Programa permanente de visitas guiadas",
+    "descripcion": "Se ofrece atención al público en general que desee tomar un recorrido histórico por el panteón. ",
+    "fecha": "2017/03/31",
+  },
+  {
+    "nombre": "Visitas guiadas sensoriales",
+    "descripcion": "Visitas guiadas descriptivas para todo público.",
+    "fecha": "2017/03/31",
+  }
+]
